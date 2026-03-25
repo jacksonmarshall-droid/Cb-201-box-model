@@ -1,0 +1,24 @@
+.p{
+    color: red;
+}
+*,
+*::before
+* ::after{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 200px;
+    height: 400px;
+    padding: 10px 20px;
+    border: 5px solid black;
+    margin: 30px;
+    padding-left: 50px;
+    margin-top: 200px;
+}
+
+.name {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
