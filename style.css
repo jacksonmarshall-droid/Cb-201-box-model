@@ -15,10 +15,15 @@
     margin: 30px;
     margin-top: 200px;
     text-align: center;
+    background-color:red;
 }
 
 .name {
     border: 1px solid goldenrod;
     text-align: center;
     padding: 5px;
+}
+.pokemon{
+  border: 1px solid goldenrod ;
+  background-color: blueviolet;
 }
